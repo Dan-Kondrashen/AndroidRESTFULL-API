@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_item_new_comm"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/create_comm"
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:id="@+id/menu_item_user_info"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="@string/create_blog"
+        app:showAsAction="ifRoom|withText"/>
+
+</menu>

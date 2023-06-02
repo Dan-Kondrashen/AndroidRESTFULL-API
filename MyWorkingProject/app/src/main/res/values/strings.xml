@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BlogsApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="swipe_left_for_register">Проведите пальцем по экрану в право чтобы зарегистрироваться</string>
+    <string name="blog_title_label">Заголовок</string>
+    <string name="blog_details_label">Содержание</string>
+    <string name="comment_content_label">Текст комментария</string>
+    <string name="blog_comments_label">Комментарии</string>
+    <string name="blog_title_hint">Введите тематику блога.</string>
+    <string name="blog_content_hint">Содержание блога.</string>
+    <string name="date_start_title">Дата начала прочтения:</string>
+    <string name="login">Вход</string>
+    <string name="password">Пароль</string>
+    <string name="e_mail">Email</string>
+    <string name="firstname">Имя</string>
+    <string name="lastname">Фамилия</string>
+    <string name="phone">Телефон</string>
+    <string name="tag">Начните вести свой блог уже сегодня!</string>
+    <string name="swipe_right_for_login">Проведите пальцем по экрану в лево чтобы войти</string>
+    <string name="register">Регистрация</string>
+    <string name="re_type_password">Повторите пароль</string>
+    <string name="delete">Удалить</string>
+    <string name="update">Обновить</string>
+    <string name="add">Добавить!</string>
+    <string name="add_comm">Добавить комментарий</string>
+    <string name="create_blog">Создать блог</string>
+    <string name="go_to_main">На главную</string>
+    <string name="create_comm">Создание комментария</string>
+    <string name="account">Личный кабинет</string>
+    <string name="blog_author_view">Автор</string>
+    <string name="cancel">Отменить</string>
+    <string name="comment_text_view">Введите текст Комментария</string>
+</resources>
